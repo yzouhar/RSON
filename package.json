@@ -1,0 +1,19 @@
+{
+  "name": "rsons-practice-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "echo \"# RSON\" >> README.md"
+  },
+  "keywords": [
+    "git",
+    "init"
+  ],
+  "author": "git add README.md",
+  "license": "ISC",
+  "description": ""
+}
